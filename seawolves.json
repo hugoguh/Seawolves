@@ -1,0 +1,62 @@
+{
+    "name": "Founding Seawolf",
+    "children": [{
+        "name": "Tobin",
+        "year_in": 2004,
+        "year_out": 0,
+        "children": [{
+            "name": "Vaughn",
+            "year_in": 2013,
+            "year_out": 0
+        }, {
+            "name": "Chuck D",
+            "year_in": 2011,
+            "year_out": 0
+        }, {
+            "name": "Keith",
+            "year_in": 2012,
+            "year_out": 2014
+        }]
+    }, {
+        "name": "Charlie Johnson",
+        "year_in": 2006,
+        "year_out": 0,
+        "children": [{
+            "name": "Peter",
+            "year_in": 2008,
+            "year_out": 2013
+        }]
+    }, {
+        "name": "Xander",
+        "year_in": 2006,
+        "year_out": 0
+    }, {
+        "name": "Nate",
+        "year_in": 2006,
+        "year_out": 0
+    }, {
+        "name": "Ryan",
+        "year_in": 2006,
+        "year_out": 2012,
+        "children": [{
+            "name": "Juice",
+            "children": [{
+                  "name": "Aaron",
+                  "year_in": 2006,
+                  "year_out": 0
+              }, {
+                  "name": "George",
+                  "year_in": 2006,
+                  "year_out": 0
+              }]
+        }]
+    }, {
+        "name": "Noam",
+        "year_in": 2006,
+        "year_out": 2014
+    }, {
+        "name": "Mark",
+        "year_in": 2006,
+        "year_out": 2014
+    }]
+}
