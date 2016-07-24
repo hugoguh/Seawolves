@@ -1,5 +1,5 @@
 {
-    "name": "Founding Seawolf",
+    "name": "Seawolf God",
     "children": [{
         "name": "Tobin",
         "year_in": 2004,
@@ -7,15 +7,175 @@
         "children": [{
             "name": "Vaughn",
             "year_in": 2013,
-            "year_out": 0
+            "year_out": 0,
+            "Children": [{
+              "name": "Enrique",
+              "year_in": 2013,
+              "year_out": 0
+              }]
+        }, {
+            "name": "Mark L",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Mark B",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Rodney",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Dough",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Noah",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Keanan",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Andrew",
+            "year_in": 2006,
+            "year_out": 2014,
+            "children": [{
+                "name": "Paul",
+                "year_in": 2006,
+                "year_out": 2014
+            }, {
+                "name": "Fish",
+                "year_in": 2006,
+                "year_out": 2014
+            }]
+        }, {
+            "name": "Sam",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Phil W",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Tom",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Ian",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Stewart",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Brandon",
+            "year_in": 2006,
+            "year_out": 2014
+        }, {
+            "name": "Noam",
+            "year_in": 2006,
+            "year_out": 2014
+        },{
+            "name": "Ryan",
+            "year_in": 2006,
+            "year_out": 2012,
+            "children": [{
+                "name": "Juice",
+                "children": [{
+                      "name": "Aaron",
+                      "year_in": 2006,
+                      "year_out": 0
+                  }, {
+                      "name": "George",
+                      "year_in": 2006,
+                      "year_out": 0
+                  }]
+            }]
         }, {
             "name": "Chuck D",
             "year_in": 2011,
             "year_out": 0
         }, {
+            "name": "Kini",
+            "year_in": 2011,
+            "year_out": 0,
+            "children": [{
+              "name": "Peco",
+              "year_in": 2011,
+              "year_out": 0
+            }, {
+              "name": "Rolo",
+              "year_in": 2011,
+              "year_out": 0
+              }]
+        }, {
+            "name": "Sean",
+            "year_in": 2011,
+            "year_out": 0,
+            "children": [{
+              "name": "Phil",
+              "year_in": 2011,
+              "year_out": 0
+              }]
+        }, {
+            "name": "Jacinto",
+            "year_in": 2011,
+            "year_out": 0
+        }, {
+            "name": "Jean Pierre",
+            "year_in": 2011,
+            "year_out": 0
+        }, {
+            "name": "Kovar",
+            "year_in": 2011,
+            "year_out": 0
+        }, {
+            "name": "Xander",
+            "year_in": 2011,
+            "year_out": 0,
+            "children":[{
+                "name": "Nate",
+                "year_in": 2006,
+                "year_out": 0,
+                "children": [{
+                  "name": "Hudson",
+                  "year_in": 2006,
+                  "year_out": 0,
+                  "children": [{
+                      "name": "Kolt",
+                      "year_in": 2006,
+                      "year_out": 2014
+                  }, {
+                    "name": "Peter W",
+                    "year_in": 2006,
+                    "year_out": 0
+                    }, {
+                      "name": "Greg",
+                      "year_in": 2006,
+                      "year_out": 0
+                    }]
+                  }, {
+                    "name": "Matt",
+                    "year_in": 2006,
+                    "year_out": 0
+                  }]
+            }]
+        }, {
             "name": "Keith",
             "year_in": 2012,
-            "year_out": 2014
+            "year_out": 2014,
+            "children": [{
+                  "name": "Sandy",
+                  "year_in": 2012,
+                  "year_out": 2014
+              }, {
+                  "name": "John",
+                  "year_in": 2006,
+                  "year_out": 2014
+              }]
         }]
     }, {
         "name": "Charlie Johnson",
@@ -27,36 +187,12 @@
             "year_out": 2013
         }]
     }, {
-        "name": "Xander",
+        "name": "Tony Ben",
         "year_in": 2006,
         "year_out": 0
     }, {
-        "name": "Nate",
+        "name": "Will",
         "year_in": 2006,
         "year_out": 0
-    }, {
-        "name": "Ryan",
-        "year_in": 2006,
-        "year_out": 2012,
-        "children": [{
-            "name": "Juice",
-            "children": [{
-                  "name": "Aaron",
-                  "year_in": 2006,
-                  "year_out": 0
-              }, {
-                  "name": "George",
-                  "year_in": 2006,
-                  "year_out": 0
-              }]
-        }]
-    }, {
-        "name": "Noam",
-        "year_in": 2006,
-        "year_out": 2014
-    }, {
-        "name": "Mark",
-        "year_in": 2006,
-        "year_out": 2014
     }]
 }
