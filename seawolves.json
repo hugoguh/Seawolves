@@ -185,7 +185,12 @@
               }, {
                   "name": "John",
                   "year_in": 2006,
-                  "year_out": 2014
+                  "year_out": 2014,
+                  "children": [{
+                        "name": "Paulo",
+                        "year_in": 2012,
+                        "year_out": 2014
+                    }]
               }]
         }]
     }, {
