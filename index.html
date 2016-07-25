@@ -11,39 +11,46 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <style type="text/css">
+      .node, .link {
+        cursor: pointer;
+      }
+      .overlay{
+          background-color:#EEE;
+      }
+      .node circle {
+        fill: #fff;
+        stroke: green;
+        stroke-width: 1.5px;
+      }
+      .node text {
+        font-size:10px;
+        font-family:sans-serif;
+      }
+      .link {
+        fill: none;
+        stroke: #ccc;
+        stroke-width: 4px;
+      }
+      .templink {
+        fill: none;
+        stroke: red;
+        stroke-width: 3px;
+      }
+      .ghostCircle.show{
+          display:block;
+      }
+      .ghostCircle, .activeDrag .ghostCircle{
+           display: none;
+      }
+    </style>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="dndTree.js"></script>
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1>Seawolves</h1>
-        <p>Seawolves FC analytics</p>
-
-        <p class="view"><a href="https://github.com/hugoguh/Seawolves">View the Project on GitHub <small>hugoguh/Seawolves</small></a></p>
-
-
-        <ul>
-          <li><a href="https://github.com/hugoguh/Seawolves/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/hugoguh/Seawolves/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/hugoguh/Seawolves">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h3>
-<a id="welcome-to-seawolves-fc" class="anchor" href="#welcome-to-seawolves-fc" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to Seawolves FC.</h3>
-
-<p></p>
-
-<h3>
-<a id="ancestry" class="anchor" href="#ancestry" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Ancestry</h3>
-
-<p></p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/hugoguh">hugoguh</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
+    <header>
+      <p>Seawolves Ancestry</p>
+      <div id="tree-container"></div>
   </body>
 </html>
