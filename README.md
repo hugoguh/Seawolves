@@ -1,2 +1,2 @@
 # Seawolves
-Seawolves FC analytics
+History and analytics
