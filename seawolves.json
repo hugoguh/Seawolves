@@ -14,19 +14,19 @@
             "year_out": 0
             }]
         }, {
-            "name": "Mark L",
-            "year_in": 2006,
-            "year_out": 2014,
-            "children": [{
-              "name": "Philip",
-              "year_in": 2011,
-              "year_out": 0
-              }]
-        }, {
             "name": "Tom Dunmore",
             "year_in": 2006,
             "year_out": 2014,
             "children": [{
+                "name": "Mark L",
+                "year_in": 2006,
+                "year_out": 2014,
+                "children": [{
+                  "name": "Philip",
+                  "year_in": 2011,
+                  "year_out": 0
+                  }]
+              }, {
                 "name": "Mark B",
                 "year_in": 2006,
                 "year_out": 2014
@@ -46,14 +46,6 @@
         "year_in": 2004,
         "year_out": 0,
         "children": [{
-            "name": "Ippei",
-            "year_in": 2006,
-            "year_out": 2014
-        }, {
-            "name": "Dough",
-            "year_in": 2006,
-            "year_out": 2014
-        }, {
             "name": "coed team 1",
             "year_in": 2004,
             "year_out": 0
@@ -87,7 +79,12 @@
         "year_in": 2004,
         "year_out": 0,
         "children": [{
-            "name": "Ken Asada"
+            "name": "Ken Asada",
+            "children": [{
+              "name": "Ippei",
+              "year_in": 2013,
+              "year_out": 0
+            }]
           }, {
             "name": "Stuart",
             "year_in": 2006,
@@ -130,9 +127,14 @@
                 "year_in": 2011,
                 "year_out": 0,
                 "children": [{
-                    "name": "Phil W",
+                    "name": "Dough D",
                     "year_in": 2006,
-                    "year_out": 2014
+                    "year_out": 2014,
+                    "children": [{
+                        "name": "Phil W",
+                        "year_in": 2004,
+                        "year_out": 0
+                    }]
                 }]
             }, {
               "name": "Peco",
