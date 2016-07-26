@@ -79,12 +79,7 @@
         "year_in": 2004,
         "year_out": 0,
         "children": [{
-            "name": "Ken Asada",
-            "children": [{
-              "name": "Ippei",
-              "year_in": 2013,
-              "year_out": 0
-            }]
+            "name": "Ken Asada"
           }, {
             "name": "Stuart",
             "year_in": 2006,
@@ -189,6 +184,10 @@
                   "year_in": 2006,
                   "year_out": 2014,
                   "children": [{
+                    "name": "Ippei",
+                    "year_in": 2013,
+                    "year_out": 0
+                  }, {
                         "name": "Paulo",
                         "year_in": 2012,
                         "year_out": 2014
