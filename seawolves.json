@@ -4,7 +4,38 @@
         "name": "UofC",
         "year_in": 2004,
         "year_out": 0,
-        "children": [{
+        "children": [ {
+                "name": "Sean",
+                "year_in": 2011,
+                "year_out": 0,
+                "children": [{
+                    "name": "Dough D",
+                    "year_in": 2006,
+                    "year_out": 2014,
+                    "children": [{
+                        "name": "Phil W",
+                        "year_in": 2004,
+                        "year_out": 0
+                    }]
+                }]
+            }, {
+            "name": "Kini",
+            "year_in": 2011,
+            "year_out": 0,
+            "children": [{
+                "name": "Oscar",
+                "year_in": 2004,
+                "year_out": 0
+            }, {
+              "name": "Peco",
+              "year_in": 2011,
+              "year_out": 0
+            }, {
+              "name": "Rolo",
+              "year_in": 2011,
+              "year_out": 0
+              }]
+        },{
           "name": "D. Vadeboncouer",
           "year_in": 2006,
           "year_out": 2014,
@@ -109,37 +140,6 @@
             "name": "Brandon",
             "year_in": 2006,
             "year_out": 2014
-        }, {
-            "name": "Kini",
-            "year_in": 2011,
-            "year_out": 0,
-            "children": [{
-                "name": "Oscar",
-                "year_in": 2004,
-                "year_out": 0
-            }, {
-                "name": "Sean",
-                "year_in": 2011,
-                "year_out": 0,
-                "children": [{
-                    "name": "Dough D",
-                    "year_in": 2006,
-                    "year_out": 2014,
-                    "children": [{
-                        "name": "Phil W",
-                        "year_in": 2004,
-                        "year_out": 0
-                    }]
-                }]
-            }, {
-              "name": "Peco",
-              "year_in": 2011,
-              "year_out": 0
-            }, {
-              "name": "Rolo",
-              "year_in": 2011,
-              "year_out": 0
-              }]
         }, {
             "name": "Jacinto",
             "year_in": 2011,
