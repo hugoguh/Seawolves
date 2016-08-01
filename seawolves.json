@@ -34,7 +34,15 @@
               "name": "Rolo",
               "year_in": 2011,
               "year_out": 0
-              }]
+            }, {
+              "name": "Omar",
+              "year_in": 2004,
+              "year_out": 0
+            }, {
+              "name": "Mariano",
+              "year_in": 2004,
+              "year_out": 0
+            }]
         },{
           "name": "David Vadeboncouer",
           "year_in": 2006,
@@ -90,10 +98,6 @@
               "year_out": 0
           }, {
               "name": "Ian Gardiner",
-              "year_in": 2004,
-              "year_out": 0
-          }, {
-              "name": "Omar",
               "year_in": 2004,
               "year_out": 0
           }, {
